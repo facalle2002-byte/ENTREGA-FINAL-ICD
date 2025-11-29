@@ -36,7 +36,7 @@ La variable dependiente es:
 
 ---
 
-## 🧩 **Variables Utilizadas**
+## **Variables Utilizadas**
 
 Del dataset original seleccionamos y construimos las siguientes variables clave:
 
@@ -61,7 +61,7 @@ Estas transformaciones permitieron capturar relaciones no lineales entre los fac
 
 ---
 
-## 🤖 **Modelos Implementados**
+## **Modelos Implementados**
 
 1. **Logit Base (StatsModels)**
 2. **Logit Mejorado (Sklearn + regularización + SMOTE + Pipeline)**
@@ -80,7 +80,7 @@ Además, se calculó el **umbral óptimo** basado en costos sociales de errores 
 
 ---
 
-## 🔎 **Enfoque Causal – DAG**
+## **Enfoque Causal – DAG**
 
 Se construyó un **DAG causal** para identificar confounders y formalizar el mecanismo estructural:
 
@@ -89,7 +89,7 @@ Se construyó un **DAG causal** para identificar confounders y formalizar el mec
 
 ---
 
-## 📊 **Principales Hallazgos**
+## **Principales Hallazgos**
 
 * Las variables **región**, **educación** y **nivel de riqueza** son las que más peso tienen en la predicción (XGBoost).
 * El fuerte desbalance requiere optimización del **umbral de decisión**, no solo accuracy.
@@ -108,7 +108,7 @@ pip install pandas numpy scikit-learn xgboost imbalanced-learn matplotlib seabor
 
 ---
 
-## 📁 **Estructura del Repositorio**
+## **Estructura del Repositorio**
 
 ```
 ENTREGA-FINAL-ICD/
@@ -119,9 +119,9 @@ ENTREGA-FINAL-ICD/
 
 ---
 
-## ✨ **Autores**
+## **Autores**
 
-* Fabricip Calle
+* Fabricio Calle
 * Bianca Jimenez
 * Jose Naira
 * Aracely Lalupu
