@@ -98,7 +98,7 @@ Se construyó un **DAG causal** para identificar confounders y formalizar el mec
 
 ---
 
-## 🛠️ **Requisitos**
+##  **Requisitos**
 
 Para ejecutar el notebook:
 
