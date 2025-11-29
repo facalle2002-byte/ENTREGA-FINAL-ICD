@@ -109,11 +109,12 @@ pip install pandas numpy scikit-learn xgboost imbalanced-learn matplotlib seabor
 ---
 
 ## **Estructura del Repositorio**
-
+SOLO TOMAR EN CUENTA ESTOS
 ```
 ENTREGA-FINAL-ICD/
 │── final_df_limpio.csv
-│── TG4_GRUPO5_ICD.ipynb
+│── Presentación
+│── TG4_GRUPO5_ICD (1).ipynb
 │── README.md
 ```
 
