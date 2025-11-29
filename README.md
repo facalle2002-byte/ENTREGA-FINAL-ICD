@@ -127,7 +127,3 @@ ENTREGA-FINAL-ICD/
 * Aracely Lalupu
 * Curso: **Introducción a Ciencia de Datos – UDEP 2025**
 
----
-
-Si quieres, también te preparo una **versión corta** para la descripción del repositorio o una **versión académica tipo paper**.
-
